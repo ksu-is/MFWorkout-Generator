@@ -3,7 +3,7 @@ This roadmap outlines key features and improvements planned for the Workout Gene
 - [x] Create a title for the project DONE
 - [x] Create a description for the project DONE
 - [x] Create Read.me DONE
-- [ ] Upload code from source
+- [x] Upload code from source DONE 
 - [ ] Run the code, locate problems
 - [ ] Analyze the code in VS Code, leave comments for the problems
 - [ ] Take note of changes
