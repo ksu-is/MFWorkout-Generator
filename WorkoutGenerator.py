@@ -74,6 +74,11 @@ def main():
 
     if workout_type in ["cardio", "hiit"]:
         rounds = int(input("Enter the number of rounds: "))
+
+        if rounds >= 20:
+            print ("That's Insane!!!")
+            return 0
+        
         workout_routine = generate_workout(workout_type, rounds=rounds)
         if workout_routine:
             print("\nYour workout routine:\n")
