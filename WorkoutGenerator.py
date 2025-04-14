@@ -2,7 +2,7 @@ import random
 
 # Define workout options for each type of workout
 workouts = {
-    "cardio": ["Running", "Jumping Jacks", "Burpees", "Cycling", "Jump Rope", "High Knees"],
+    "cardio": ["Running", "Jumping Jacks", "Burpees", "Cycling", "Jump Rope", "High Knees", "Butt Kicks", "Jumping Lunges", "Elliptical", "Swimming"],
     "weightlifting": {  # Muscle-specific workouts
         "chest": ["Bench Press", "Incline Dumbbell Press", "Push-Ups", "Cable Flys", "Chest Dips", "Pec Deck", "Incline Machine Press"],
         "shoulder": ["Overhead Press", "Lateral Raises", "Front Raises", "Arnold Press", "Face Pulls", "Seated Dumbbell Press", "Barbell Shrugs"],
