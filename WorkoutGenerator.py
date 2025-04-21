@@ -20,7 +20,7 @@ workouts = {
         "rectus abdominis muscle": ["Plank", "Crunches", "Leg Raises", "Cable Crunches", "Ab Rollouts", "Mountain Climbers", "Sit-Ups"],
         "core": ["Plank", "Side Plank", "Bird Dogs", "Dead Bugs", "Russian Twists", "Mountain Climbers", "Ab Rollouts"],
         "forearm": ["Wrist Curls", "Reverse Wrist Curls", "Farmer's Walk", "Grip Strength Squeeze", "Reverse Curls", "Plate Pinches", "Towel Pull-Ups"],
-        "latissimus dorsi muscle": ["Pull-Ups", "Chin-Ups", "Lat Pulldowns", "T-Bar Rows", "Seated Cable Rows", "One-Arm Dumbbell Rows", "Bent-Over Rows"],
+        "latissimus dorsi muscle": ["Pull-Ups", "Chin-Ups", "Lat Pulldowns", "T-Bar Rows", "Seated Cable Rows", "One-Arm Dumbbell Rows", "Bent-Over Rows","Lat Pullovers"],
         "trapezius": ["Shrugs", "Barbell Rows", "Face Pulls", "Dumbbell Lateral Raises", "Upright Rows", "Farmer's Walk", "T-Bar Rows"]
     },
     "hiit": ["Mountain Climbers", "Sprint Intervals", "Box Jumps", "Plank Jacks", "Battle Ropes", "Jump Squats"]
